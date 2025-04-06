@@ -1,0 +1,16 @@
+{
+  "name": "codingame-clash",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vitest": "^3.1.1"
+  }
+}
